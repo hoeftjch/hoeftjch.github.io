@@ -1,6 +1,6 @@
 # serene v1.2.0 (check for update at https://github.com/isunjn/serene/releases)
 
-base_url = "https://hoeftjch.com"      # Domain name of your website
+base_url = "https://hoeftjch.github.io/"      # Domain name of your website
 title = "hoeftjch devblog"
 description = "random topics"
 default_language = "en"
